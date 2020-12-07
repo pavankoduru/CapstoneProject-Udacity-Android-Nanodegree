@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <dimen name="fab_margin">16dp</dimen>
+    <dimen name="logo_w_h">100dp</dimen>
+
+    <!--
+Refer to App Widget Documentation for margin information
+http://developer.android.com/guide/topics/appwidgets/index.html#CreatingLayout
+    -->
+    <dimen name="widget_margin">8dp</dimen>
+    <dimen name="shapesizewidth">270dp</dimen>
+    <dimen name="shapesizeheight">60dp</dimen>
+    <dimen name="strokewidth">3dp</dimen>
+    <dimen name="imgmarginbottom">30dp</dimen>
+    <dimen name="edmarginbottom">10dp</dimen>
+    <dimen name="butmargtop">20dp</dimen>
+
+    <dimen name="pbarwidth">30dp</dimen>
+    <dimen name="pbarheight">30dp</dimen>
+    <dimen name="pbarmarginbottom">20dp</dimen>
+    <dimen name="editlayoutmargin">10dp</dimen>
+    <dimen name="edtextsize">25sp</dimen>
+    <dimen name="viewheight">5dp</dimen>
+    <dimen name="homebttextcolor">25sp</dimen>
+    <dimen name="homebtmartop">3dp</dimen>
+    <dimen name="homeadmartop">20dp</dimen>
+    <dimen name="displayimgmarginbot">30dp</dimen>
+    <dimen name="regbttop">16dp</dimen>
+    <dimen name="btmargintop">20dp</dimen>
+
+    <dimen name="layoutmargintop">30dp</dimen>
+    <dimen name="buttextsize">15sp</dimen>
+    <dimen name="imglayoutbuttom">10dp</dimen>
+    <dimen name="textsize">20sp</dimen>
+    <dimen name="textmargintop">10dp</dimen>
+    <dimen name="textviewtextsize">14sp</dimen>
+    <dimen name="butmargintop">20dp</dimen>
+    <dimen name="backbuttonmargintop">10dp</dimen>
+    <dimen name="setbuttop">16dp</dimen>
+    <dimen name="settextsize">25sp</dimen>
+    <dimen name="splashimagelayputnmargin">7dp</dimen>
+    <dimen name="splashtextmargin">10dp</dimen>
+    <dimen name="splashtextsize">30sp</dimen>
+    <dimen name="cardmargin">10dp</dimen>
+    <dimen name="eachjokesize">25sp</dimen>
+    <dimen name="viewwidth">2dp</dimen>
+    <dimen name="widgetmargin">8dp</dimen>
+    <dimen name="widgettextsize">24sp</dimen>
+</resources>
